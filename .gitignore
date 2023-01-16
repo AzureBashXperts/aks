@@ -1,0 +1,9 @@
+**/.travis.yml
+**/.yamllint
+**/.mysqlcreds
+**/.terraform.lock.hcl
+**/.terraform/
+**/main.destroy.tfplan
+**/.creds
+**/terraform.tfstate
+**/terraform.tfstate.backup
