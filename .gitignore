@@ -7,3 +7,4 @@
 **/.creds
 **/terraform.tfstate
 **/terraform.tfstate.backup
+terraform/rg/tfplan
